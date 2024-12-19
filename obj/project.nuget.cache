@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ULnr2GPkIRv3QzaVsQk7F7YrkPkMb12DlKkJsDf5rB1YuZbh2yTvvwy16mx4Xz5WJY0NsvwV0CWKndVwD0K6A==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub Repository\\Lunar Lander\\Lunar Lander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2200914\\.nuget\\packages\\communitytoolkit.highperformance\\8.1.0\\communitytoolkit.highperformance.8.1.0.nupkg.sha512",
+    "C:\\Users\\s2200914\\.nuget\\packages\\raylib-csharp-vinculum\\5.0.1\\raylib-csharp-vinculum.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
